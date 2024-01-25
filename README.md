@@ -6,3 +6,7 @@ Basic Counter App Project
 ''
 Basic to Advanced
 ''
+# Background Changer App
+''
+When a click a button change a div background color
+''
